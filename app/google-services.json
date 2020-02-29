@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568520061878",
+    "firebase_url": "https://farmotech-65fad.firebaseio.com",
+    "project_id": "farmotech-65fad",
+    "storage_bucket": "farmotech-65fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568520061878:android:1915722149d2d12d0f0717",
+        "android_client_info": {
+          "package_name": "com.example.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568520061878-j6fm6276ab9oi13eci3s2uftlnbvo3q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inventory",
+            "certificate_hash": "44f8988c74ccfb0e3c8900f379825004f8256f76"
+          }
+        },
+        {
+          "client_id": "568520061878-m3i71ef55nt7a62bnq465qbn3ihqutfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAv01yWT_A7Tu4qHkLKp2eH5Sg2151lcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568520061878-m3i71ef55nt7a62bnq465qbn3ihqutfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
